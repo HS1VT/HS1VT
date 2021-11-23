@@ -6,7 +6,7 @@
 
 Visit this beauty: https://hs1vt.github.io/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HS1VT)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=HS1VT)
 
 <!---
 HS1VT/HS1VT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
